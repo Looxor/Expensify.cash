@@ -4,8 +4,11 @@
 <!-- Explanation of the change or anything fishy that is going on -->
 
 ### Fixed Issues
-<!-- Please replace GH_LINK with the link to the GitHub issue this Pull Request is fixing -->
-Fixes GH_LINK
+<!-- 
+Please replace GH_LINK with the link to the GitHub issue this Pull Request is fixing.
+If the PR solves multiple issues, add them on new line.
+-->
+GH_LINK
 
 ### Tests
 <!--- 
